@@ -1,3 +1,4 @@
+//Read the radius r and height h of a closed cylinder and print its volume and its total surface area, each rounded to two decimal places.
 #include<stdio.h>
 int main(){
 	int r, h;
