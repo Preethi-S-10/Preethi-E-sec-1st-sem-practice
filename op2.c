@@ -1,3 +1,4 @@
+//Read P, R and T, and print the compound interest earned and the final amount, both rounded to two decimal places.
 #include<stdio.h>
 int main(){
 	int p, r, t;
@@ -10,4 +11,3 @@ int main(){
 	ci=(float)amount-p;
 	printf("Compound interest: %.2f\nAmount: %.2f",ci,amount);
 }
-
