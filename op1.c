@@ -1,3 +1,4 @@
+//Read a temperature in degrees Celsius (a real number) and print its equivalent in Fahrenheit and in Kelvin, both rounded to two decimal places.
 #include<stdio.h>
 int main(){
 	float c,f,k;
