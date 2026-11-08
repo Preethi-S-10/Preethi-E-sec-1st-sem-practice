@@ -1,3 +1,4 @@
+//Read the integer coefficients a, b and c of the equation ax^2 + bx + c = 0 and print the discriminant followed by the two roots (larger root first) rounded to two decimal places.
 #include<stdio.h>
 #include<math.h>
 int main(){
